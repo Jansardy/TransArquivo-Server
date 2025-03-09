@@ -1,0 +1,10 @@
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\bin\Debug\TransArquivo Server.exe.config
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\bin\Debug\TransArquivo Server.exe
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\bin\Debug\TransArquivo Server.pdb
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo Server.csproj.AssemblyReference.cache
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo_Server.frmServidor.resources
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo_Server.Properties.Resources.resources
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo Server.csproj.GenerateResource.cache
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo Server.csproj.CoreCompileInputs.cache
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo Server.exe
+D:\POO(C#)\TransArquivo Server\TransArquivo Server\obj\Debug\TransArquivo Server.pdb
