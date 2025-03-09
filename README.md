@@ -1,13 +1,13 @@
 # 📁 TransArquivo Server  
 
-Servidor para recebimento de arquivos via conexão TCP/IP.
+Servidor para recebimento de arquivos via conexão IP.
 
 ## 📌 Sobre o Projeto  
 O **TransArquivo Server** é um servidor de transferência de arquivos baseado em **Sockets** em C#.  
 Ele permite que um cliente envie arquivos para o servidor, que os recebe e armazena em um diretório configurável.
 
 ## 🚀 Funcionalidades  
-✅ Recebe arquivos via **TCP/IP**  
+✅ Recebe arquivos via **IP**  
 ✅ Permite configurar o **endereço IP** e a **porta**  
 ✅ Interface gráfica com **Windows Forms**  
 ✅ Salva os arquivos recebidos em uma pasta configurável  
@@ -15,7 +15,7 @@ Ele permite que um cliente envie arquivos para o servidor, que os recebe e armaz
 ## 🖥️ Tecnologias Utilizadas  
 - **C# .NET**  
 - **Windows Forms**  
-- **Sockets TCP/IP**  
+- **Sockets IP**  
 
 ## ⚙️ Como Usar  
 
